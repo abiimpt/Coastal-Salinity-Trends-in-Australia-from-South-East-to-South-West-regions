@@ -1,8 +1,7 @@
-# Monthly-Coastal-Temperature-Trends-in-Australia-from-2009-to-2012: Abstract (Read Me!)
-This dataset focuses on monthly temperature data collected from coastal areas in Australia during the years 2009 to 2012. The main goal of this repository is to analyze and compare temperature patterns over time, such as identifying if there had been an increase or decrease in temperatures.
+# Coastal Salinity Trends in Australia from South-East to South-West regions: Abstract (Read Me!) 
+This dataset focuses on monthly sea-surface salinity (PSU) measured at several coastal locations in southern Australia. The main goal of this repository is to analyze and compare salinity patterns across different regions south-west and south-east, and southern sectors of our study area to see how coastal salinity varies spatially.  
 
-Understanding these changes is important because temperature trends can signal changes in climate and can affect marine and coastal ecosystems. The following data was cleaned and organized to calculate the average temperature for each month in 2009 and 2012, helping us to better understand climate variation in Australia’s coastal zones.
-
+Understanding these changes is important because shifts in salinity affect ocean circulation, marine life, and coastal ecosystems. The data have been cleaned and organized to calculate the average salinity in each region and the data comes from 2009 to 2012 years, allowing us to assess both seasonal cycles and regional differences in coastal salinity along Australia’s southern shore.
 ## How to Access the Data
 
 To find and download the original data:
