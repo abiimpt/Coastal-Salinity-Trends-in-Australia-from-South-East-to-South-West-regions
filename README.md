@@ -20,7 +20,7 @@ First, you want to visit the Open Acess to Ocean Data Network Portal:
    - Wet-bulb Temperature
 
 Then download the data as a csv file:
-#####The CSV file includes extra summary rows labeled as "data points." You can remove these either by deleting the rows manually in Excel or by filtering them out when importing the file in Co-Lab.
+The CSV file includes extra summary rows labeled as "data points." You can remove these either by deleting the rows manually in Excel or by filtering them out when importing the file in Co-Lab.
 
 
 >If you're unable to retrieve the CSV file, I've provided a cleaned version below, which I manually formatted using Excel:
