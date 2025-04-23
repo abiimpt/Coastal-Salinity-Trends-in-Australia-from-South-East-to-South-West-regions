@@ -1,7 +1,8 @@
 # Coastal Salinity Trends in Australia from South-East to South-West regions: Abstract (Read Me!) 
-This dataset focuses on sea-surface salinity (PSU) measured at several coastal locations in southern Australia. The main goal of this repository is to analyze and compare salinity patterns across different regions south-west and south-east, and southern sectors of our study area to see how coastal salinity varies spatially.  
+This dataset focuses on sea-surface salinity (PSU) measurements collected from multiple coastal locations along southern Australia. The objective of this repository is to analyze and compare salinity patterns across different regions, specifically focusing on the south-west, south-east, and southern area. By examining salinity changes in these coastal regions, the dataset aims to explore how coastal salinity varies.
 
-Understanding these changes is important because shifts in salinity affect ocean circulation, marine life, and coastal ecosystems. The data have been cleaned and organized to calculate the average salinity in each region and the data comes from 2009 to 2012, allowing us to assess both seasonal cycles and regional differences in coastal salinity along Australia’s southern shore.
+Understanding these shifts in salinity may help understand influence key oceanographic processes, including ocean circulation, nutrient distribution, and the health of marine ecosystems. Changes in salinity can also impact the distribution and behavior of marine life, which relies on stable salinity conditions for reproduction, feeding, and migration. Moreover, variations in salinity can affect coastal ecosystems, influencing habitats and human activities such as fishing and tourism. The data, spanning from 2009 to 2012, has been carefully cleaned and organized to allow for the calculation of average salinity values in each of the identified regions. By leveraging this dataset.
+
 ## How to Access the Data
 
 To find and download the original data:
