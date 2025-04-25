@@ -1,29 +1,15 @@
-# Coastal Salinity Trends in Australia from South-East to South-West regions: Abstract (Read Me!) 
-This dataset focuses on sea-surface salinity (PSU) measurements collected from multiple coastal locations along southern Australia. The objective of this repository is to analyze and compare salinity patterns across different regions, specifically focusing on the south-west, south-east, and southern area. By examining salinity changes in these coastal regions, the dataset aims to explore how coastal salinity varies.
+# Coastal Salinity and Temperature Trends in Australia from South-East to South-West Regions: Abstract (Read me!)
 
-Understanding these shifts in salinity may help understand influence key oceanographic processes, including ocean circulation, nutrient distribution, and the health of marine ecosystems. Changes in salinity can also impact the distribution and behavior of marine life, which relies on stable salinity conditions for reproduction, feeding, and migration. Moreover, variations in salinity can affect coastal ecosystems, influencing habitats and human activities such as fishing and tourism. The data, spanning from 2009 to 2012, has been carefully cleaned and organized to allow for the calculation of average salinity values in each of the identified regions. By leveraging this dataset.
+This repository contains processed and analyzed sea-surface salinity (PSAL) and air temperature (TEMP) data collected from coastal regions in southern Australia. The dataset is derived from the [Open Access to Ocean Data Network Portal (AODN)](https://portal.aodn.org.au/search), a publicly available marine data archive. The focus of this analysis is to understand spatial differences in coastal salinity and temperature patterns between the South-West (SW) and South-East (SE) regions of Australia, based on data collected from 2009 to 2012.
 
-## How to Access the Data
+![Open Access to Ocean Data Network Portal (AODN)](VisualCVSDownload.png)
 
-To find and download the original data:
+The research questions addressed in this repository is whether areas with higher air temperatures tend to have lower or higher salinity? Through filtering the dataset to include only entries with valid values for both TEMP and PSAL, tables summarizing average temperature and salinity values by region (SW and SE) were created. These results are then exported into CSV file.
 
-First, you want to visit the Open Acess to Ocean Data Network Portal:   
-[Open Acess to Ocean Data Network Portal](https://portal.aodn.org.au/search)
+This repository is useful for students, educators, and researchers interested in coastal climate trends, marine science, or environmental data analysis. It provides a streamlined introduction to working with real-world oceanographic data, and offers insights into the interactions between air temperature and ocean salinity in the context of regional climate.
 
- Next use the search filters or select the following variables (or substrates):  
-   - Air Temperature  
-   - Atmospheric Pressure  
-   - Dew-point Temperature  
-   - Earth-relative Wind Direction  
-   - Earth-relative Wind Speed  
-   - Sea Temperature  
-   - Wet-bulb Temperature
+To get started, users can open and run the Python notebook to replicate the filtering, processing, and plotting steps. The cleaned datasets, summary tables, and output CSVs are also included for reference.
 
-Then download the data as a csv file:
-The CSV file includes extra summary rows labeled as "data points." You can remove these either by deleting the rows manually in Excel or by filtering them out when importing the file in Co-Lab.
+If you need help using or interpreting the dataset, feel free to reach out by opening an issue in this repository. Through the forms of issues, pull requests, or ideas are welcome!
 
-
->If you're unable to retrieve the CSV file, I've provided a cleaned version below, which I manually formatted using Excel:
-[Cleaned up: Sea Surface Temperature (SST) Sub facility-Near real-time_data](https://drive.google.com/file/d/1glfq1W8HE9AocZ13BTP6_OYtqzy7V_h0/view?usp=sharing)
->> For preferred use here is the raw data:
->>>[Uncleaned raw: Sea Surface Temperature (SST) Sub facility-Near real-time_data](https://drive.google.com/file/d/1xg128LrtRZrEC2HOyM30F7yMSZe1g50K/view?usp=sharing)
+This project is maintained by Abigail Cervantes, a Freshmen at the University of North Carolina at Chapel HIlll. For questions or collaboration opportunities, please connect through GitHub.
