@@ -8,7 +8,7 @@ The research questions addressed in this repository is whether areas with higher
 
 This repository is useful for students, educators, and researchers interested in coastal climate trends, marine science, or environmental data analysis. It provides a streamlined introduction to working with real-world oceanographic data, and offers insights into the interactions between air temperature and ocean salinity in the context of regional climate.
 
-To get started, users can open and run the Python notebook to replicate the filtering, processing, and plotting steps. The cleaned datasets, summary tables, and output CSVs are also included for reference.
+To get started, users can open and run the Python notebook on Co-Lab to replicate the filtering, processing, and plotting steps. The cleaned datasets, summary tables, and output CSVs are also included for reference.
 
 If you need help using or interpreting the dataset, feel free to reach out by opening an issue in this repository. Through the forms of issues, pull requests, or ideas are welcome!
 
