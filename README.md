@@ -3,7 +3,7 @@
 This repository contains processed and analyzed sea-surface salinity (PSAL) and air temperature (TEMP) data collected from coastal regions in southern Australia. The dataset is derived from the [Open Access to Ocean Data Network Portal (AODN)](https://portal.aodn.org.au/search), a publicly available marine data archive. The focus of this analysis is to understand spatial differences in coastal salinity and temperature patterns between the South-West (SW) and South-East (SE) regions of Australia, based on data collected from 2009 to 2012.
 
 ![data-viz](VisualCVSDownload.png)
-![data-viz](Visualizationitems/VisualCVSDownload.png)
+![data-viz](VisualizationitemsVisualCVSDownload.png)
 
 
 The research questions addressed in this repository is whether areas with higher air temperatures tend to have lower or higher salinity? Through filtering the dataset to include only entries with valid values for both TEMP and PSAL, tables summarizing average temperature and salinity values by region (SW and SE) were created. These results are then exported into CSV file.
